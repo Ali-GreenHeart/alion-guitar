@@ -41,3 +41,17 @@ nav {
 .nav-link:hover {
     background-color: rgb(16, 10, 10);
 }
+
+/* main */
+main {
+    padding: 10px;
+}
+
+.section1 {
+    border: 1px solid;
+}
+
+.section1>img {
+    width: 100%;
+    max-width: 800px;
+}
