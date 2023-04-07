@@ -45,6 +45,7 @@ a {
 .nav-link {
     color: white;
     background-color: rgb(60, 2, 2);
+    transition: all 500ms linear;
 }
 
 .nav-link:hover {
@@ -77,6 +78,7 @@ footer {
 
 .footer-link {
     color: black;
+    transition: all 500ms linear;
 }
 
 .footer-link:hover {
