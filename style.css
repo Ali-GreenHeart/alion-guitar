@@ -1,1 +1,22 @@
 @import url("./fonts/fonts.css");
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary_clr: black;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+}
+
+header {
+    background-color: var(--primary_clr);
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.basliq {
+    font-size: 3rem;
+}
